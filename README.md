@@ -1,5 +1,5 @@
 [![Language](https://img.shields.io/badge/Made%20with-HTML-blue.svg)](#technologies-and-tools)
-[![HitCount](http://hits.dwyl.io/manishms18/resume.svg)]
+![HitCount](http://hits.dwyl.io/manishms18/resume.svg)
 
 # Resume on Website
 

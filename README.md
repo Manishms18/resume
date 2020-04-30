@@ -4,7 +4,6 @@
 # Resume on Website
 
 Manish Shukla's Resume
-
 **Features**
 * Can be viewed on custom domain
 * Can be tracked on Google Analytics

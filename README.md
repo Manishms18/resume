@@ -10,3 +10,6 @@ Manish Shukla's Resume
 * Custom icon embedded to the browser tab
 
 [![GitHub](https://img.shields.io/github/followers/manishms18.svg?style=social)](https://github.com/Manishms18)
+
+
+
